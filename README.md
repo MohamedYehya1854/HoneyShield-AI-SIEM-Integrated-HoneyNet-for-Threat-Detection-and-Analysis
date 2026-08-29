@@ -52,10 +52,10 @@ HoneyShield follows a layered security architecture:
                          └──────────┬──────────┘
                                     │
                                     ▼
-                         ┌─────────────────────┐
-                         │  FortiGate Firewall │
+                         ┌──────────────────────┐
+                         │  FortiGate Firewall  │
                          │ Web Filter │ IPS │ AV│
-                         └──────────┬──────────┘
+                         └──────────┬───────────┘
                                     │
                     ┌───────────────┴───────────────┐
                     │                               │
